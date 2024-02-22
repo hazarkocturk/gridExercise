@@ -23,6 +23,7 @@ body {
   align-items: center;
   position: sticky;
   position: -webkit-sticky;
+  top: 0;
 }
 
 .logoTop {
